@@ -1,0 +1,5 @@
+Sitemap: https://sosko.in.rs/sitemap.xml
+
+User-agent: *
+Disallow: /admin
+
